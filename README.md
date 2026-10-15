@@ -19,7 +19,3 @@ Aplikasi KasirKu membantu pengguna mengelola data produk, kategori, dan stok bar
 - Tampilan stok produk untuk melihat ketersediaan produk.
 - Pencatatan transaksi dan detail transaksi mencatat transaksi penjualan, memilih produk yang dibeli, menentukan jumlah barang, dan menghitung total pembayaran.
 - Pencarian/filter daftar data untuk memudahkan pengguna mencari produk, kategori, atau data transaksi berdasarkan kata kunci maupun kriteria tertentu.
-
-│   └── script.js
-├── wireframe/
-│   └
